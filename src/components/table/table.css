@@ -1,0 +1,13 @@
+.flag{
+    width: 40px;
+    height: 25px;
+}
+
+
+
+thead{
+    position: sticky;
+    top: 70px;
+    z-index: 99;
+    border-top: 2px solid red!important;
+}

@@ -1,0 +1,21 @@
+.arrows{
+    display: flex;
+    gap: 15px;
+}
+
+.arrows a{
+
+
+    font-size: 20px;
+    cursor: pointer;
+    color: black;
+}
+
+.container-fluid{
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    height: 80px;
+    width: 100%;
+
+}
